@@ -1,4 +1,4 @@
-# <div align="center">🚀 ZMAIL - 24-hour Temporary Email Service</div>
+# <div align="center">🚀 ZeYu - 24-hour Temporary Email Service</div>
 
 <div align="center">
   <p>
@@ -7,7 +7,7 @@
 
   <p>If you find this project helpful, please consider giving it a ⭐️ Star ⭐️. Your support is greatly appreciated!</p>
 
-  <img src="frontend/public/favicon.svg" alt="ZMAIL Logo" width="120" height="120" style="background-color: #4f46e5; padding: 20px; border-radius: 12px; margin: 20px 0;">
+  <img src="frontend/public/favicon.svg" alt="ZeYu Logo" width="120" height="120" style="background-color: #4f46e5; padding: 20px; border-radius: 12px; margin: 20px 0;">
 
   <h3>💌 Secure, Simple, Disposable Email Service</h3>
 
@@ -61,7 +61,7 @@
 
 ## 🚀 Quick Deployment
 
-ZMAIL now adopts a brand new integrated deployment approach, with frontend and backend integrated into a single Cloudflare Worker, making deployment even simpler!
+ZeYu now adopts a brand new integrated deployment approach, with frontend and backend integrated into a single Cloudflare Worker, making deployment even simpler!
 
 ### 🎯 Deployment Options
 
@@ -70,7 +70,7 @@ We provide two deployment methods, you can choose according to your needs:
 #### Option 1: One-Click Deployment (Recommended for Beginners)
 
 <div align="center">
-  <a href="http://deploy.workers.cloudflare.com/?url=https://github.com/zaunist/zmail" target="_blank">
+  <a href="http://deploy.workers.cloudflare.com/?url=https://github.com/zaunist/ZeYu" target="_blank">
     <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare" />
   </a>
 </div>

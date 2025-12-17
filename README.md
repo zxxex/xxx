@@ -1,4 +1,4 @@
-# <div align="center">🚀 ZMAIL - 24小时临时邮箱服务</div>
+# <div align="center">🚀 ZeYu - 24小时临时邮箱服务</div>
 
 <div align="center">
   <p>
@@ -7,7 +7,7 @@
 
   <p>如果这个项目对您有帮助，请考虑给它一个 ⭐️ Star ⭐️，这将是对我最大的鼓励！</p>
 
-  <img src="frontend/public/favicon.svg" alt="ZMAIL Logo" width="120" height="120" style="background-color: #4f46e5; padding: 20px; border-radius: 12px; margin: 20px 0;">
+  <img src="frontend/public/favicon.svg" alt="ZeYu Logo" width="120" height="120" style="background-color: #4f46e5; padding: 20px; border-radius: 12px; margin: 20px 0;">
 
   <h3>💌 安全、简单、即用即走的临时邮箱服务</h3>
 
@@ -56,7 +56,7 @@
 
 ## 🚀 快速部署
 
-ZMAIL 现在采用全新的一体化部署方式，前端和后端整合为一个 Cloudflare Worker，部署更加简单！
+ZeYu 现在采用全新的一体化部署方式，前端和后端整合为一个 Cloudflare Worker，部署更加简单！
 
 ### 🎯 部署方式选择
 
@@ -65,7 +65,7 @@ ZMAIL 现在采用全新的一体化部署方式，前端和后端整合为一�
 #### 方式一：一键部署（推荐新手）
 
 <div align="center">
-  <a href="http://deploy.workers.cloudflare.com/?url=https://github.com/zaunist/zmail" target="_blank">
+  <a href="http://deploy.workers.cloudflare.com/?url=https://github.com/zaunist/ZeYu" target="_blank">
     <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare" />
   </a>
 </div>
